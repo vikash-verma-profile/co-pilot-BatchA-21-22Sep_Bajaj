@@ -1,0 +1,13 @@
+Dealer_Code,Dealer_Name,Region,Category_Focus,Revenue_INR,Gross_Margin_Pct,Growth_Pct,Outstanding_Days
+D-WEST-014,Shree Electricals Mumbai,West,Fans,18500000,18.5,12.0,28
+D-WEST-022,Bright Homes Distributors,West,Lighting,15200000,21.0,9.5,21
+D-WEST-031,PowerCool Traders,West,Fans,9800000,14.2,-3.0,45
+D-SOUTH-008,Chennai Light Mart,South,Lighting,17600000,22.4,15.2,18
+D-SOUTH-019,Deccan Fans Hub,South,Fans,12100000,16.8,4.1,32
+D-NORTH-004,Capital Appliances Delhi,North,Appliances,14300000,19.1,7.3,25
+D-NORTH-027,Northern Glow Lighting,North,Lighting,8900000,12.5,-6.8,52
+D-EAST-011,Eastern Spark Distributors,East,Lighting,11200000,20.2,8.0,24
+D-EAST-016,Bhubaneswar Fan World,East,Fans,7600000,15.0,1.2,36
+D-WEST-045,Aura Projects Supply Co,West,Project Lighting,21000000,17.8,18.4,40
+D-SOUTH-033,Hyderabad LED Pro,South,Lighting,13400000,23.1,11.0,19
+D-NORTH-041,Punjab Home Essentials,North,Appliances,6900000,13.4,-2.5,48

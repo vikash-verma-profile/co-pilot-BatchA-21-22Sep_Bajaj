@@ -1,0 +1,31 @@
+Region,Channel,Product_Category,SKU,Month,Revenue_INR,Units,MoM_Growth_Pct
+West,Dealer,Fans,Ceiling Fan Neo 1200,2026-04,4250000,3200,4.2
+West,Dealer,Fans,Ceiling Fan Neo 1200,2026-05,4480000,3350,5.4
+West,Dealer,Fans,Ceiling Fan Neo 1200,2026-06,4610000,3420,2.9
+West,Modern Trade,Fans,Tower Fan AirPro,2026-04,1880000,910,1.1
+West,Modern Trade,Fans,Tower Fan AirPro,2026-05,1760000,860,-6.4
+West,Modern Trade,Fans,Tower Fan AirPro,2026-06,1690000,830,-4.0
+West,Dealer,Lighting,LED Batten 20W,2026-04,2650000,18500,3.3
+West,Dealer,Lighting,LED Batten 20W,2026-05,2890000,20100,9.1
+West,Dealer,Lighting,LED Batten 20W,2026-06,3120000,21450,8.0
+South,Dealer,Fans,Ceiling Fan Neo 1200,2026-04,3900000,2950,2.0
+South,Dealer,Fans,Ceiling Fan Neo 1200,2026-05,3720000,2810,-4.6
+South,Dealer,Fans,Ceiling Fan Neo 1200,2026-06,3550000,2680,-4.6
+South,Project,Lighting,LED Panel 36W,2026-04,4100000,9800,6.5
+South,Project,Lighting,LED Panel 36W,2026-05,4550000,10850,11.0
+South,Project,Lighting,LED Panel 36W,2026-06,4980000,11800,9.5
+North,Dealer,Appliances,Mixer GrindPro,2026-04,2100000,2400,0.8
+North,Dealer,Appliances,Mixer GrindPro,2026-05,2250000,2550,7.1
+North,Dealer,Appliances,Mixer GrindPro,2026-06,2380000,2680,5.8
+North,Dealer,Lighting,LED Bulb 9W,2026-04,1450000,52000,-1.2
+North,Dealer,Lighting,LED Bulb 9W,2026-05,1390000,50100,-4.1
+North,Dealer,Lighting,LED Bulb 9W,2026-06,1320000,47800,-5.0
+East,Dealer,Fans,Pedestal Fan CoolMax,2026-04,1560000,1200,3.4
+East,Dealer,Fans,Pedestal Fan CoolMax,2026-05,1620000,1245,3.8
+East,Dealer,Fans,Pedestal Fan CoolMax,2026-06,1710000,1310,5.6
+East,Project,Lighting,Street Light 90W,2026-04,2800000,620,8.2
+East,Project,Lighting,Street Light 90W,2026-05,2650000,590,-5.4
+East,Project,Lighting,Street Light 90W,2026-06,2500000,555,-5.7
+West,Project,Lighting,LED Highbay 100W,2026-04,3200000,740,4.0
+West,Project,Lighting,LED Highbay 100W,2026-05,3450000,790,7.8
+West,Project,Lighting,LED Highbay 100W,2026-06,3680000,840,6.7

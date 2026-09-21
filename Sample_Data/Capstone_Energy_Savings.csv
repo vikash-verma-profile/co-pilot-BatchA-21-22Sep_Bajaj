@@ -1,0 +1,7 @@
+Tower,Floor_Count,Area_SqFt,Current_Fixture_Type,Proposed_Fixture,Fixture_Count,Est_Annual_kWh_Current,Est_Annual_kWh_Proposed,Est_Annual_Savings_INR,Rollout_Week
+Tower A,12,82000,Fluorescent T8,LED Panel 36W,1850,920000,540000,1368000,1-4
+Tower B,10,78000,Fluorescent T8,LED Panel 36W,1720,870000,510000,1296000,5-8
+Tower C,14,80000,CFL Downlight,LED Downlight 15W,2100,810000,430000,1368000,5-10
+Tower A Common,0,12000,Halogen,LED Batten 20W,260,145000,62000,298800,3-4
+Tower B Common,0,11000,Halogen,LED Batten 20W,240,132000,56000,273600,7-8
+Tower C Parking,0,18000,MH Lamp,LED Highbay 100W,95,260000,110000,540000,9-12
