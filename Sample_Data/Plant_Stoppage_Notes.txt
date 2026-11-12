@@ -1,0 +1,11 @@
+BAJAJ ELECTRICALS — FAN LINE 2 STOPPAGE NOTES (RAW)
+Plant: Chakan | Week: 08–13 Jun 2026 | Author: Shift Supervisor – Fan Assembly Line 2
+Training sample only. Counts below match Plant_Attendance.csv. Do not invent extra numbers.
+
+- Mon 08 Jun, 10:40–11:15 (about 35 min). Motor-housing feeder jam on Fan Line 2, morning shift. Maintenance cleared it. That shift built 800 fans against the usual morning level of about 980 (about 180 not built). OT on the shift: 6 hours. Owner: S. Kulkarni, Maintenance. Open: why the feeder sensor was bypassed — nobody wrote it down.
+- Wed 10 Jun, 14:05–14:45 (40 min). Paint defect spike on fan blades. Afternoon shift stopped Fan Line 2 for containment. Shift output 720 against the usual afternoon level of about 940 (about 220 fans held). Same afternoon, Fan Paint had 3 of 18 absent (16.7%) and output 780 against about 1040. Quality started a sort. NCR narrative not drafted. CAPA owner not assigned. Root cause TBD.
+- Fri 12 Jun, 22:10–01:05, night shift. Fan Line 2 ran out of FM-220 fan motors. Apex Drive Components moved dispatch from 09 Jun to 14 Jun (5 days) on PO BE/CHN/2026/441. Night output 550 against the usual night level of about 860 (about 310 fans not built). OT on that night shift: 18 hours. Escalation is still open — see Vendor_Email_Thread.txt.
+- Attendance, Fan Line 2, planned 42 per shift: night absenteeism was 9.5% to 14.3% every day this week. Worst night was Thu 11 Jun — 6 absent, 14.3%, 36 present. Morning stayed at 2.4% to 4.8%. Night cover for next week is not agreed. Owner TBD.
+- Open, no owner yet: feeder sensor check, blade-paint NCR, written motor ETA, night-shift attendance cover for Fan Line 2.
+- Decision in the shift huddle: do not load Fan Line 2 night on 13 Jun until stores confirm the motor count at start of shift. Who confirms — TBD.
+- Line 3 kept running. Do not mix Line 3 output into the Line 2 story.

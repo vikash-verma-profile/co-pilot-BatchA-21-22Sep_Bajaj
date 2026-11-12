@@ -1,0 +1,65 @@
+EMAIL THREAD — FAN MOTOR SUPPLY DELAY (TRAINING SAMPLE)
+Vendor-thread variant for Lab 05 and Capstone Track B. Draft only. Do not send.
+
+From: Vikram Shah (Apex Drive Components)
+To: Neha Joshi (Bajaj Electricals – Procurement, Chakan)
+Cc: Imran Shaikh (Shift Supervisor – Fan Assembly Line 2)
+Subject: PO BE/CHN/2026/441 – FM-220 fan motors
+Date: 07 Jun 2026
+
+Neha,
+Original dispatch commitment was 09 Jun. We need two extra days and will ship on 11 Jun.
+Quantity is unchanged: 4,000 pcs of FM-220.
+Regards,
+Vikram Shah
+
+---
+
+From: Neha Joshi
+To: Vikram Shah
+Date: 09 Jun 2026
+
+Vikram,
+11 Jun is already inside our cover. Fan Line 2 had about 1.5 days of FM-220 on hand this morning.
+Please confirm the 11 Jun dispatch in writing and share vehicle details a day before it leaves.
+If 11 Jun is at risk, say so today.
+
+---
+
+From: Vikram Shah
+Date: 10 Jun 2026
+
+Update: dispatch is now 14 Jun, not 11 Jun. That is 5 days after the original 09 Jun commitment.
+We can try a partial of 200 pcs on 12 Jun if the replacement bearing lot clears test. I will confirm tomorrow.
+Reason: a bearing lot from our sub-supplier failed incoming inspection.
+
+---
+
+From: Imran Shaikh
+To: Neha Joshi; Vikram Shah
+Date: 12 Jun 2026, 09:40
+
+The partial of 200 pcs has not reached Chakan stores.
+Night shift today cannot run a full Fan Line 2 plan on the motors we have.
+Please give one ETA. The 11 Jun note and the 14 Jun note cannot both be the plan.
+
+---
+
+From: Imran Shaikh
+Date: 13 Jun 2026, 01:20
+
+Night-shift update, Fan Line 2. The line stopped 22:10–01:05 because motors ran out.
+Output was 550 against the usual night level of about 860 (about 310 fans not built).
+The shift booked 18 OT hours after stores issued a small leftover lot.
+I need a written recovery plan before the next night shift: firm dispatch date, quantity, and who approves any line-loading change.
+This note does not raise a commercial claim.
+
+---
+
+From: Vikram Shah
+Date: 13 Jun 2026, 08:05
+
+Acknowledged. The 12 Jun partial did not leave our plant. Please disregard that option.
+Firm plan from our side: dispatch the balance on 14 Jun, with arrival at Chakan targeted for 15 Jun, subject to transport.
+We will share the LR copy on 14 Jun by noon.
+We are not committing a penalty or goodwill credit on this mail. Our commercial team will respond separately if you raise one.
